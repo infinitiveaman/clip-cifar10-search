@@ -5,5 +5,5 @@ tqdm
 Pillow
 numpy
 streamlit
-import matplotlib.pyplot as plt
+matplotlib
 git+https://github.com/openai/CLIP.git
